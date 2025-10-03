@@ -1,8 +1,36 @@
-# oura-mcp-server
+# Oura MCP Server
 
-mcp, aka model context protocol, provides a framework for ai agents to interface with various data streams in a uniform manner. it is exactly as it sounds if you break down the three words. a protocol to follow when you are providing the model with context for whatever specific use case you are tackling.
+An MCP (Model Context Protocol) server that connects Claude to your Oura Ring data, enabling AI-powered insights into your sleep, activity, readiness, and overall health patterns.
 
-an analogy that i read the other day is that mcp is like the USB-C port and cord. in this analogy, electricity is the machine intelligence, whatever AI architecture is needed to tackle the problem at hand. intelligence on tap, if you will. the cord and the port represent the mcp servers, and the different devices are the various streams of data. there are so many different devices that can all be charged with a usb-c cord. there is one cord that interfaces with all of them. in other words, mcp is a way to structure the data that is flowing between the mcp client and server, it is providing an intuitive means to utilize the untapped potential of all of this data that we have. so much insight into who we are and data that can be utilized to live the most fulfilled life we possibly can. which, and i am no expert, but based on my current mindset, all of my experieneces, and all i have learned up until this point in my life 22 years old post grad, has taught me that for me, a life well-lived and full of expereiences, all the emotions, meeting all of the different people in the world and learning as much as you possibly can, requires you to be living in the present to fully be living. i have come to understand that the only matter that truly matters, the one that determines what story we are writing for ourself, comes from our actions. what we are doing with our time, one of our most valuable and fleeting resource, what we do in the present moment, how we act, think, show up, these are how we are writing the script that is our life in real-time. how the world around us responds, where we end up in life, the circumstances, the situation we are in, this is determined by the actions of our previous Self. so us, right now in the present moment, we are where we are based on the decisions, actions, mindset of our previous present Self. and then what we do with that, how we move forward through life, how we keep moving forward, what we do, that is what matters.
+## What is MCP?
+
+MCP is like a USB-C port for data and AI. Just as one USB-C cord can charge countless different devices, MCP provides a standardized way for AI systems to interface with diverse data sources. It structures the flow of data between applications and AI models, unlocking the potential of personal data streams to provide meaningful insights.
+
+## Why Oura?
+
+Your Oura Ring collects rich data about your body's rhythms, recovery, and readiness. This MCP server makes that data accessible to AI, enabling personalized insights and recommendations based on your actual physiological state.
+
+## Features
+
+- Access personal information and profile data
+- [Additional features to be added]
+
+## Installation
+
+[Installation instructions]
+
+## Usage
+
+[Usage instructions]
+
+## Requirements
+
+- Oura Ring and active account
+- [Additional requirements]
+
+## Configuration
+
+[Configuration details]
 
 documentation:
 https://modelcontextprotocol.io/docs/develop/build-server#python
